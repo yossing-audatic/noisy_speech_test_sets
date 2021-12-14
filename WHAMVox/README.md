@@ -32,15 +32,8 @@ specifying paths to the downloaded files/folders without modifying the default S
 
 ## Requirements:
 
-The following requirements need to installed for this script to run:
-```
-audioread==2.1.9
-librosa==0.8.0
-numpy~=1.19.4
-pandas~=1.2.0
-scipy~=1.6.0
-soundfile
-```
+- We used Python3.8 to run _generate_WHAMVox_testset.py_
+- All requirements needed to run _generate_WHAMVox_testset.py_ are in the requirements.txt 
 
 ## References
 
