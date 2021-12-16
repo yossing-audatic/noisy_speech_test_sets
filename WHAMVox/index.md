@@ -16,7 +16,7 @@ metadata containing the ids and paths of the speech and noise files for each exa
 
 ## Dataset Statistics
 
-![Image](/assets/images/easy_snr_distribution.png)
+![WHAMVox easy_SNR distribution](/assets/images/easy_snr_distribution.png)
 
 ## References
 
