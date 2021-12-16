@@ -14,7 +14,9 @@ Corresponding clean speech files are included for each example.
 
 metadata containing the ids and paths of the speech and noise files for each example as well as the URL to the original speech videos can be found [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/WHAMVox_test.csv)
 
-[Link](url) and ![Image](src)
+## Dataset Statistics
+
+![Image](/assets/images/easy_snr_distribution.png)
 
 ## References
 
