@@ -1,14 +1,14 @@
 # The WHAMVox Dataset
 
 WHAMVox contains two subsets, each with 1940 files. 
-_WHAMVox easy_ covers the SNR range -20dB to 20dB SNR
-_WHAMVox hard_ covers the SNR range -27dB to 12dB SNR
+**WHAMVox easy** covers the SNR range -20dB to 20dB SNR
+**WHAMVox hard** covers the SNR range -27dB to 12dB SNR
 
 Each sound file consists of mixed speech from the [VoxCeleb2](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html) \[1] and noise from the [WHAM!](https://wham.whisper.ai/) \[2] test datasets. Corresponding clean speech files are included for each example.
 
-_WHAMVox easy_ can be downloaded [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/WHAMVox_easy.zip)
+**WHAMVox easy** can be downloaded [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/WHAMVox_easy.zip)
 
-_WHAMVox hard_ can be downloaded [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/WHAMVox_hard.zip)
+**WHAMVox hard** can be downloaded [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/WHAMVox_hard.zip)
 
 metadata containing the ids and paths of the speech and noise files for each example as well as the URL to the original speech videos can be found [here](https://github.com/yossing-audatic/noisy_speech_test_sets/WHAMVox/WHAMVox_test.csv)
 
