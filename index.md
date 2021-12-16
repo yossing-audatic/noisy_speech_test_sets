@@ -10,16 +10,16 @@ Each sound file consists of mixed speech from the [VoxCeleb2](https://www.robots
 
 **WHAMVox hard** can be downloaded [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/WHAMVox_hard.zip)
 
-metadata containing the ids and paths of the speech and noise files for each example as well as the URL to the original speech videos can be found [here](https://github.com/yossing-audatic/noisy_speech_test_sets/WHAMVox/WHAMVox_test.csv)
+metadata containing the ids and paths of the speech and noise files for each example as well as the URL to the original speech videos can be found [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/WHAMVox_test.csv)
 
 [Link](url) and ![Image](src)
 
 ## References
 
 [1]  J. S. Chung*, A. Nagrani*, A. Zisserman  
-[VoxCeleb2: Deep Speaker Recognition](https://www.robots.ox.ac.uk/~vgg/publications/2018/Chung18a/chung18a.pdf)
-INTERSPEECH, 2018.
+\n[VoxCeleb2: Deep Speaker Recognition](https://www.robots.ox.ac.uk/~vgg/publications/2018/Chung18a/chung18a.pdf)
+\nINTERSPEECH, 2018.
 
 [2] Gordon Wichern, Joe Antognini, Michael Flynn, Licheng Richard Zhu, Emmett McQuinn, Dwight Crow, Ethan Manilow, Jonathan Le Roux
-[WHAM!: Extending Speech Separation to Noisy Environments](https://arxiv.org/pdf/1907.01160.pdf)
-INTERSPEECH, 2019
+\n[WHAM!: Extending Speech Separation to Noisy Environments](https://arxiv.org/pdf/1907.01160.pdf)
+\nINTERSPEECH, 2019
