@@ -18,6 +18,18 @@ metadata containing the ids and paths of the speech and noise files for each exa
 
 ![WHAMVox easy_SNR distribution](/assets/images/easy_snr_distribution.png)
 
+## Code
+
+Code and instructions to recreate or modify the test datasets is available on our corresponding Github page [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox)
+
+## Citation
+WHAMVox was compiled by [Audatic](https://audatic.ai/). 
+If you make use of this dataset please cite our corresponding [paper](<arxive>).    
+
+**Restoring speech intelligibility for hearing aid users with deep learning**  
+Peter Udo Diehl, Yosef Singer, Hannes Zilly, Uwe Schönfeld, Paul Meyer-Rachner, Mark Berry, Henning Sprekeler, Elias Sprengel, Annett Pudszuhn, Veit M. Hofmann
+<arxive>
+
 ## References
 
 \[1]  J. S. Chung*, A. Nagrani*, A. Zisserman  
@@ -27,3 +39,8 @@ INTERSPEECH, 2018.
 \[2] Gordon Wichern, Joe Antognini, Michael Flynn, Licheng Richard Zhu, Emmett McQuinn, Dwight Crow, Ethan Manilow, Jonathan Le Roux  
 [WHAM!: Extending Speech Separation to Noisy Environments](https://arxiv.org/pdf/1907.01160.pdf)  
 INTERSPEECH, 2019.
+
+## License
+
+Creative Commons License
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
