@@ -8,9 +8,8 @@ Each sound file consists of mixed speech from the [VoxCeleb2](https://www.robots
 and noise from the [WHAM!](https://wham.whisper.ai/) \[2] test datasets. 
 Corresponding clean speech files are included for each example.
 
-**WHAMVox easy** can be downloaded [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/WHAMVox_easy.zip)
-
-**WHAMVox hard** can be downloaded [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/WHAMVox_hard.zip)
+**WHAMVox easy** can be downloaded [here](https://www.audatic.ai/download_WHAMVox/WHAMVox_easy.zip)
+**WHAMVox hard** can be downloaded [here](https://www.audatic.ai/download_WHAMVox/WHAMVox_hard.zip)
 
 metadata containing the ids and paths of the speech and noise files for each example as well as the URL to the original speech videos can be found [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/WHAMVox_test.csv)
 
