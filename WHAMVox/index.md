@@ -24,7 +24,7 @@ If you would like to recreate or modify the test sets, follow the instructions i
 </p>  
 <p float="left">
   <img src="assets/images/num_examples_per_speaker.png" width="45%" />
-  <img src="assets/images/gender_distribution.png" width="35%" />
+  <img src="assets/images/gender_distribution.png" width="45%" />
 </p>
 
 ## Code
