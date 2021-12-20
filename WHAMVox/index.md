@@ -20,7 +20,7 @@ If you would like to recreate or modify the test sets, follow the instructions i
 ## Dataset Statistics
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](/assets/images/easy_snr_distribution.png)  |  ![](/assets/images/hard_snr_distribution.png)
+![WHAMVox easy_SNR distribution](/assets/images/easy_snr_distribution.png)  |  ![WHAMVox hard_SNR distribution](/assets/images/hard_snr_distribution.png)
   
 
 |![WHAMVox easy_SNR distribution](/assets/images/easy_snr_distribution.png) |![WHAMVox hard_SNR distribution](/assets/images/hard_snr_distribution.png)|   
