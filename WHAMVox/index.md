@@ -18,7 +18,7 @@ For more details about how the files were selected, please see the ipython noteb
 If you would like to recreate or modify the test sets, follow the instructions in the [README](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/README.md). All resources and instructions needed to recreate or modify the test sets can be found on our [github page](https://github.com/yossing-audatic/noisy_speech_test_sets/tree/main/WHAMVox).   
 
 ## Dataset Statistics
-<img src="/assets/images/easy_snr_distribution.png" width="30%" /> <img src="/assets/images/hard_snr_distribution.png" width="30%" /> 
+<img src="assets/images/easy_snr_distribution.png" width="30%" /> <img src="assets/images/hard_snr_distribution.png" width="30%" /> 
 <p float="left">
   <img src="/assets/images/num_speakers_per_example.png" width="30%" />
   <img src="/assets/images/gender_distribution.png" width="30%" />
