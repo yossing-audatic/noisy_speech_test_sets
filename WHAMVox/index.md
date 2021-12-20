@@ -11,7 +11,11 @@ Corresponding clean speech files are included for each example.
 **WHAMVox easy** can be downloaded [here](https://www.audatic.ai/download_WHAMVox/WHAMVox_easy.zip).   
 **WHAMVox hard** can be downloaded [here](https://www.audatic.ai/download_WHAMVox/WHAMVox_hard.zip).  
 
-metadata containing the ids and paths of the speech and noise files for each example as well as the URL to the original speech videos can be found [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/WHAMVox_test.csv)
+metadata containing the ids and paths of the speech and noise files for each example as well as the URL to the original speech videos can be found [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/WHAMVox_test.csv).  
+
+For more details about how the files were selected, please see the ipython notebook [analyses.ipnb](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/analyses.ipynb).  
+
+If you would like to recreate or modify the test sets, follow the instructions in the [README](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/README.md). All resources and instructions needed to recreate or modify the test sets can be found on our [github page](https://github.com/yossing-audatic/noisy_speech_test_sets/tree/main/WHAMVox).   
 
 ## Dataset Statistics
 
