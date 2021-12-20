@@ -19,10 +19,8 @@ If you would like to recreate or modify the test sets, follow the instructions i
 
 ## Dataset Statistics
 
-![WHAMVox easy_SNR distribution](/assets/images/easy_snr_distribution.png)
-![WHAMVox hard_SNR distribution](/assets/images/hard_snr_distribution.png)
-![Number of speakers](/assets/images/num_speakers_per_example.png)
-![Gender distribution](/assets/images/gender_distribution.png)
+![WHAMVox easy_SNR distribution](/assets/images/easy_snr_distribution.png) | ![WHAMVox hard_SNR distribution](/assets/images/hard_snr_distribution.png)
+![Number of speakers](/assets/images/num_speakers_per_example.png) | ![Gender distribution](/assets/images/gender_distribution.png)
 
 
 ## Code
