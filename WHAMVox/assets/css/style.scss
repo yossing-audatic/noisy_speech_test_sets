@@ -3,7 +3,13 @@
 
 @import "{{ site.theme }}";
 
-.inner {
-  max-width: 75%;
+.outer {
+  width: 100%;
 }
 
+.inner {
+  position: relative;
+  max-width: 880px;
+  padding: 10px 10px;
+  margin: 0 auto;
+}
