@@ -11,11 +11,9 @@ Corresponding clean speech files are included for each example.
 **WHAMVox easy** can be downloaded [here](https://www.audatic.ai/download_WHAMVox/WHAMVox_easy.zip).   
 **WHAMVox hard** can be downloaded [here](https://www.audatic.ai/download_WHAMVox/WHAMVox_hard.zip).  
 
-metadata containing the ids and paths of the speech and noise files for each example as well as the URL to the original speech videos can be found [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/WHAMVox_test.csv).  
+Metadata containing the ids and paths of the speech and noise files for each example as well as the URL to the original speech videos can be found [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/WHAMVox_test.csv). A zipfile containing the URL of each YouTube video from which each speech sample was taken along with timestamps for utterances can be downloaded [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/speech_url_time_stamps.zip). The frame number assumes that the video is saved at 25fps.  
 
-For more details about how the files were selected, please see the ipython notebook [analyses.ipnb](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/analyses.ipynb).  
-
-If you would like to recreate or modify the test sets, follow the instructions in the [README](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/README.md). All resources and instructions needed to recreate or modify the test sets can be found on our [github page](https://github.com/yossing-audatic/noisy_speech_test_sets/tree/main/WHAMVox).   
+For more details about how the files were selected, please see the ipython notebook [analyses.ipnb](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/analyses.ipynb).   
 
 ## Dataset Statistics
 <p float="left">
@@ -26,7 +24,7 @@ If you would like to recreate or modify the test sets, follow the instructions i
   
 ## Code
 
-Code and instructions to recreate or modify the test datasets is available on our corresponding Github page [here](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox)
+Code and instructions to recreate or modify the test datasets is available on our corresponding [Github page](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox). Please follow the instructions in the [README](https://github.com/yossing-audatic/noisy_speech_test_sets/blob/main/WHAMVox/README.md). 
 
 ## Citation
 WHAMVox was compiled by [Audatic](https://audatic.ai/). 
