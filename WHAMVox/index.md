@@ -19,9 +19,9 @@ If you would like to recreate or modify the test sets, follow the instructions i
 
 ## Dataset Statistics
 <p float="left">
-  <img src="assets/images/both_snr_distribution.png" width="33%" /> 
-  <img src="assets/images/gender_distribution.png" width="33%" />
-  <img src="assets/images/num_examples_per_speaker.png" width="33%" />
+  <img src="assets/images/both_snr_distribution.png" width="30%" /> 
+  <img src="assets/images/gender_distribution.png" width="30%" />
+  <img src="assets/images/num_examples_per_speaker.png" width="30%" />
 </p>  
   
 ## Code
