@@ -28,7 +28,7 @@ Code and instructions to recreate or modify the test datasets is available on ou
 
 ## Citation
 WHAMVox was compiled by [Audatic](https://audatic.ai/). 
-If you make use of this dataset please cite our corresponding [paper](<arxive>).    
+If you make use of this dataset please cite our corresponding [paper](https://www.nature.com/articles/s41598-023-29871-8).    
 
 **Restoring speech intelligibility for hearing aid users with deep learning**  
 Peter Udo Diehl, Yosef Singer, Hannes Zilly, Uwe Schönfeld, Paul Meyer-Rachner, Mark Berry, Henning Sprekeler, Elias Sprengel, Annett Pudszuhn, Veit M. Hofmann  
