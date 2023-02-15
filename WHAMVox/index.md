@@ -31,7 +31,7 @@ WHAMVox was compiled by [Audatic](https://audatic.ai/).
 If you make use of this dataset please cite our corresponding [paper](https://www.nature.com/articles/s41598-023-29871-8).    
 
 **Restoring speech intelligibility for hearing aid users with deep learning**  
-Peter Udo Diehl, Yosef Singer, Hannes Zilly, Uwe Schönfeld, Paul Meyer-Rachner, Mark Berry, Henning Sprekeler, Elias Sprengel, Annett Pudszuhn, Veit M. Hofmann  
+Diehl, P.U., Singer, Y., Zilly, H. et al. Restoring speech intelligibility for hearing aid users with deep learning. Sci Rep 13, 2719 (2023). https://doi.org/10.1038/s41598-023-29871-8
 
 ## References
 
